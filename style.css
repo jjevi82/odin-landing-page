@@ -140,12 +140,13 @@ h1 {
 }
 .action-text-one{
     font-size: 18px;
-    color:#E5E7EB;
+    color: white;
     font-weight: 700;
+    margin-bottom: 2px;
 }
 .action-text-two {
     font-size: 16px;
-    color: #E5E7EB;
+    color: white;
 
 }
 .sign-up-b button {
@@ -156,6 +157,15 @@ h1 {
     font-weight: bold;
     border-radius: 12px;
     border: 2px solid white;
+}
+.footer-container {
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+    background-color: #1F2937;
+}
+.footer-text {
+    color:#E5E7EB;
 }
 
 
